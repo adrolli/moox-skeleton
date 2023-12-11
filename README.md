@@ -1,4 +1,8 @@
-# Moox Skeleton
+# Moved
+
+This repository is now part of https://github.com/mooxphp/builder
+
+## Moox Skeleton
 
 This template is used for generating all Moox packages.
 
